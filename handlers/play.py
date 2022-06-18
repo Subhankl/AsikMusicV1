@@ -198,7 +198,7 @@ async def play(_, message: Message):
             keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🔖 Oxygen Muzik Support", url=f"https://t.me/zkusagisohbet"),
+                InlineKeyboardButton("🔖 Delta Muzik Support", url=f"https://t.me/illegalchatV1"),
             ],
         ]
     )
@@ -260,7 +260,7 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton("🔖 Oxygen Müzik Support", url=f"https://t.me/zkusagisohbet"),
+                InlineKeyboardButton("🔖 Delta Müzik Support", url=f"https://t.me/illegalchatV1"),
             ],
         ]
     )
